@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Produtos – Node.js e Express
 
 Esta é uma **API REST simples** desenvolvida com **Node.js** e **Express**, criada com fins de **aprendizado** para praticar conceitos básicos de backend, rotas HTTP e manipulação de dados em memória.
@@ -46,3 +47,11 @@ api-produtos-express/
 ```bash
 git clone https://github.com/aarosanunes/api-produtos-express.git
 ```
+=======
+\# API de Produtos
+
+README inicial do projeto
+
+
+
+>>>>>>> 30e945a (Adiciona README com documentação da API)
